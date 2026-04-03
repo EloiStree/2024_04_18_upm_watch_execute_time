@@ -1,15 +1,15 @@
-
-{                                                                                
-  "name": "be.elab.watchexecutetime",                              
-  "displayName": "Watch Execute Time ",                        
-  "version": "2025.1.16",                         
-  "unity": "2018.1",                             
-  "unityRelease": "",                             
-  "description": "Small and fast package to track time of action in Unity and debug the at runtime.",                         
-  "keywords": ["Script","Tool"],                       
-  "dependencies":{},     
-  "relatedPackages":{},     
- "samples": [
+{
+  "name": "be.elab.watchexecutetime",
+  "displayName": "\ud83e\uddf0,core: Watch Execute Time",
+  "version": "2025.1.16",
+  "unity": "2018.1",
+  "description": "Small and fast package to track time of action in Unity and debug the at runtime.",
+  "keywords": [
+    "Script",
+    "Tool"
+  ],
+  "relatedPackages": {},
+  "samples": [
     {
       "displayName": "Demo Scene",
       "description": "A sample scene that demonstrates the features of this package.",
@@ -20,11 +20,12 @@
     "name": "Eloi Stree",
     "mail": "",
     "url": "https://github.com/EloiStree/"
-  },  
-  "repository":{
-"type":"Git",
-"url":"https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
-"footprint":"",
-"revision":""},     
-  "category": "Script"                   
-} 
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+}
